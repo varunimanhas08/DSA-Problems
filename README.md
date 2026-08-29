@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/varunimanhas08/DSA-Problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/varunimanhas08/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/varunimanhas08/DSA-Problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/varunimanhas08/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 ## Recursion
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/varunimanhas08/DSA-Problems/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/varunimanhas08/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
