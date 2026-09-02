@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varunimanhas08/DSA-Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/varunimanhas08/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0788-rotated-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/varunimanhas08/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [1207-unique-number-of-occurrences](https://github.com/varunimanhas08/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [3875-construct-uniform-parity-array-i](https://github.com/varunimanhas08/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
