@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varunimanhas08/DSA-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/varunimanhas08/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0217-contains-duplicate](https://github.com/varunimanhas08/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [1207-unique-number-of-occurrences](https://github.com/varunimanhas08/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/varunimanhas08/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/varunimanhas08/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/varunimanhas08/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/varunimanhas08/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/varunimanhas08/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0414-third-maximum-number) |
 ## Prefix Sum
