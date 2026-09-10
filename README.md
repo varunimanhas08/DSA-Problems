@@ -156,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/varunimanhas08/DSA-Problems/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
