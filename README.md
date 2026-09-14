@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varunimanhas08/DSA-Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/varunimanhas08/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/varunimanhas08/DSA-Problems/tree/master/0836-rectangle-overlap) |
 | [3875-construct-uniform-parity-array-i](https://github.com/varunimanhas08/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/varunimanhas08/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/varunimanhas08/DSA-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
