@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [1207-unique-number-of-occurrences](https://github.com/varunimanhas08/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/varunimanhas08/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/varunimanhas08/DSA-Problems/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/varunimanhas08/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/varunimanhas08/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/varunimanhas08/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0788-rotated-digits) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/varunimanhas08/DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/varunimanhas08/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/varunimanhas08/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/varunimanhas08/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/varunimanhas08/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/varunimanhas08/DSA-Problems/tree/master/3668-restore-finishing-order) |
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varunimanhas08/DSA-Problems/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
