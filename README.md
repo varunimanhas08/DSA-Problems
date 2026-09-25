@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/varunimanhas08/DSA-Problems/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/varunimanhas08/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
