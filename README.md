@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/varunimanhas08/DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/varunimanhas08/DSA-Problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/varunimanhas08/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varunimanhas08/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/varunimanhas08/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/varunimanhas08/DSA-Problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varunimanhas08/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/varunimanhas08/DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/varunimanhas08/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varunimanhas08/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/varunimanhas08/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/varunimanhas08/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
