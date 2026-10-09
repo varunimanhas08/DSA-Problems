@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/varunimanhas08/DSA-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/varunimanhas08/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varunimanhas08/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2351-first-letter-to-appear-twice](https://github.com/varunimanhas08/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/varunimanhas08/DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/varunimanhas08/DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/varunimanhas08/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/varunimanhas08/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varunimanhas08/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -259,5 +262,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/varunimanhas08/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varunimanhas08/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
