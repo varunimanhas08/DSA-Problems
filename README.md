@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0216-combination-sum-iii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/varunimanhas08/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/0039-combination-sum) |
+| [0216-combination-sum-iii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0216-combination-sum-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
