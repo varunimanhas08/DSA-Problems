@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/varunimanhas08/DSA-Problems/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/varunimanhas08/DSA-Problems/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/varunimanhas08/DSA-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/varunimanhas08/DSA-Problems/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/varunimanhas08/DSA-Problems/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/varunimanhas08/DSA-Problems/tree/master/0257-binary-tree-paths) |
 ## Counting
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/varunimanhas08/DSA-Problems/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
