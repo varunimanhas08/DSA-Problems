@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/varunimanhas08/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/varunimanhas08/DSA-Problems/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/varunimanhas08/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/varunimanhas08/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/varunimanhas08/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varunimanhas08/DSA-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varunimanhas08/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2351-first-letter-to-appear-twice](https://github.com/varunimanhas08/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/varunimanhas08/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/varunimanhas08/DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
