@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/varunimanhas08/DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/varunimanhas08/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Pigeonhole Principle
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/varunimanhas08/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/varunimanhas08/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0788-rotated-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
