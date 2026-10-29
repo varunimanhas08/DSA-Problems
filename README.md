@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/varunimanhas08/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/varunimanhas08/DSA-Problems/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/varunimanhas08/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/varunimanhas08/DSA-Problems/tree/master/0257-binary-tree-paths) |
 ## Counting
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunimanhas08/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/varunimanhas08/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 ## Database
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varunimanhas08/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0173-binary-search-tree-iterator](https://github.com/varunimanhas08/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/varunimanhas08/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -308,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/varunimanhas08/DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/varunimanhas08/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/varunimanhas08/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
