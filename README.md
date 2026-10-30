@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/varunimanhas08/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/varunimanhas08/DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/varunimanhas08/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [1207-unique-number-of-occurrences](https://github.com/varunimanhas08/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varunimanhas08/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/varunimanhas08/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/varunimanhas08/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/varunimanhas08/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/varunimanhas08/DSA-Problems/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/varunimanhas08/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/varunimanhas08/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
