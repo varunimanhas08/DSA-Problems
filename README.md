@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/varunimanhas08/DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/varunimanhas08/DSA-Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/varunimanhas08/DSA-Problems/tree/master/0070-climbing-stairs) |
+| [0445-add-two-numbers-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0788-rotated-digits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/varunimanhas08/DSA-Problems/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/varunimanhas08/DSA-Problems/tree/master/2409-count-days-spent-together) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/varunimanhas08/DSA-Problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/varunimanhas08/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/varunimanhas08/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0445-add-two-numbers-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varunimanhas08/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/varunimanhas08/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0445-add-two-numbers-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/varunimanhas08/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
