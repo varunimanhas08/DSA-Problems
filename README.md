@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/varunimanhas08/DSA-Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/varunimanhas08/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0537-complex-number-multiplication](https://github.com/varunimanhas08/DSA-Problems/tree/master/0537-complex-number-multiplication) |
 | [0788-rotated-digits](https://github.com/varunimanhas08/DSA-Problems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/varunimanhas08/DSA-Problems/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/varunimanhas08/DSA-Problems/tree/master/2409-count-days-spent-together) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/varunimanhas08/DSA-Problems/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/varunimanhas08/DSA-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0537-complex-number-multiplication](https://github.com/varunimanhas08/DSA-Problems/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/varunimanhas08/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/varunimanhas08/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0537-complex-number-multiplication](https://github.com/varunimanhas08/DSA-Problems/tree/master/0537-complex-number-multiplication) |
 | [3498-reverse-degree-of-a-string](https://github.com/varunimanhas08/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
